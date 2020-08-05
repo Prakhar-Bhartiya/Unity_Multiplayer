@@ -6,11 +6,11 @@ Steps to implement:
 1] Open the project in Unity <br>
 2] Go to location
 
-<img src="images/1.PNG">
+<img src="Photon_Multiplayer/images/1.PNG">
 
 3] Select the file PhotonServerSettings & Go to inspector Window
 
-<img src="images/2.PNG">
+<img src="Photon_Multiplayer/images/2.PNG">
 
 4] Click on Dashboard. Photon website will popup.
 
